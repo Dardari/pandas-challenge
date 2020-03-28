@@ -19,7 +19,7 @@ Add your Jupyter notebook to this folder. This will be the main script to run fo
 
 
 Push the above changes to GitHub or GitLab.
-![Image description](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/unc-ral-data-pt-02-2020-u-c/raw/master/02-Homework/04-Pandas/Instructions/Images/Fantasy.png)
+![Image description](https://github.com/Dardari/pandas-challenge/blob/master/Fantasy.png)
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
@@ -115,7 +115,7 @@ See Example Solution for a reference on expected format.
 
 
 Option 2: Academy of Py
-![Image description](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/unc-ral-data-pt-02-2020-u-c/raw/master/02-Homework/04-Pandas/Instructions/Images/education.png)
+![Image description](https://github.com/Dardari/pandas-challenge/blob/master/education.png)
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 Your final report should include each of the following:
